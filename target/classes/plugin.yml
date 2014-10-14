@@ -1,0 +1,3 @@
+name: playerOnlineTime
+main: liusong.minecraftPlugin.pluginMain
+version: 0.0.1

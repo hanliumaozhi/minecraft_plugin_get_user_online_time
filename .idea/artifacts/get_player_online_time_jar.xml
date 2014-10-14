@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="get_player_online_time:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/get_player_online_time_jar</output-path>
+    <root id="archive" name="get_player_online_time.jar">
+      <element id="module-output" name="get_player_online_time" />
+    </root>
+  </artifact>
+</component>
